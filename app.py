@@ -48,7 +48,6 @@ def hello():
         <div class="container">
             <h1>Hello from Anna Morozova</h1>
             <div class="badge">✅ CI/CD works</div>
-            <div class="time">Time: ''' + datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S") + '''</div>
         </div>
     </body>
     </html>
